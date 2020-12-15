@@ -36,9 +36,9 @@
 # -----------------------------------------------------------------------------
 
 # Repo Instance Specific
-REPO_NAME ?= mkdocs-material
-UPSTREAM_REPO ?= https://github.com/trustoverip/mkdocs-material.git
-DEV_SITE_PORT ?= 7500
+REPO_NAME ?= TSS0011-layer1-Interop-spec
+UPSTREAM_REPO ?= https://github.com/trustoverip/TSS0011-layer1-Interop-spec
+DEV_SITE_PORT ?= 7511
 
 # Template Repo Defaults
 TEMPLATE_REPO ?= https://github.com/trustoverip/mkdocs-material.git
